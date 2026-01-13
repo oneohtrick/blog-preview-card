@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/oneohtrick/blog-preview-card)
+- Live Site URL: [Vercel](https://blog-preview-card-ashy-psi.vercel.app/)
 
 ## My process
 
